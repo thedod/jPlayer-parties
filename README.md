@@ -1,3 +1,10 @@
+About this fork
+===============
+Branches shelter1001-* are [[the static site part of] #shelter1001](https://shelter1001.wordpress.com) parties.
+They do *not* containt the tracks for volume/legal reasons, but most tracks have contain a youtube id in the filename,
+so just `youtube-dl -x` them, normalize, trim silence, and there you have it. Deee-groovy.
+
+
 responsive-jPlayer
 ==================
 
